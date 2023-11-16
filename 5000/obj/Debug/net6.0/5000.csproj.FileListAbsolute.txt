@@ -1,0 +1,14 @@
+C:\Users\Andra\OneDrive\Bureau\c#\5000\bin\Debug\net6.0\5000.exe
+C:\Users\Andra\OneDrive\Bureau\c#\5000\bin\Debug\net6.0\5000.deps.json
+C:\Users\Andra\OneDrive\Bureau\c#\5000\bin\Debug\net6.0\5000.runtimeconfig.json
+C:\Users\Andra\OneDrive\Bureau\c#\5000\bin\Debug\net6.0\5000.dll
+C:\Users\Andra\OneDrive\Bureau\c#\5000\bin\Debug\net6.0\5000.pdb
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\5000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\5000.AssemblyInfoInputs.cache
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\5000.AssemblyInfo.cs
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\5000.csproj.CoreCompileInputs.cache
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\5000.dll
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\refint\5000.dll
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\5000.pdb
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\5000.genruntimeconfig.cache
+C:\Users\Andra\OneDrive\Bureau\c#\5000\obj\Debug\net6.0\ref\5000.dll
